@@ -1,0 +1,11 @@
+{
+  "name": "PixelStormCoin",
+  "symbol": "psc",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Beschreibung deines Coins.",
+  "website": "https://deine-website.de",
+  "explorer": "https://etherscan.io/token/0xa5e42373f0c1f34f57789176e6f9b863a2570259",
+  "status": "active",
+  "id": "0xa5e42373f0c1f34f57789176e6f9b863a2570259"
+}
